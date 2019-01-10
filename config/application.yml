@@ -1,2 +1,6 @@
 some:
   property: Property common for all apps
+  
+vf-diamond-microservice-currency-conversion:
+  foo:
+    bar: MERD-Change13!
